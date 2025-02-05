@@ -1,0 +1,7 @@
+Use Decorator Pattern. 
+Develop a system for ordering a laptop. 
+Your base item will be a laptop.
+User orders a laptop, then chooses a model 
+(Latitude or Inspiron series for example) and then chooses some add-ons 
+(RAM, peripherals, etc). 
+User can have multiple add-ons. 
